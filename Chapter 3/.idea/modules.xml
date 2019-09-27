@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch3_recipe1/ch3_recipe1.iml" filepath="$PROJECT_DIR$/ch3_recipe1/ch3_recipe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3_recipe2/ch3_recipe2.iml" filepath="$PROJECT_DIR$/ch3_recipe2/ch3_recipe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3_recipe3/ch3_recipe3.iml" filepath="$PROJECT_DIR$/ch3_recipe3/ch3_recipe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3_recipe4/ch3_recipe4.iml" filepath="$PROJECT_DIR$/ch3_recipe4/ch3_recipe4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3_recipe5/ch3_recipe5.iml" filepath="$PROJECT_DIR$/ch3_recipe5/ch3_recipe5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3_recipe6/ch3_recipe6.iml" filepath="$PROJECT_DIR$/ch3_recipe6/ch3_recipe6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3_recipe7/ch3_recipe7.iml" filepath="$PROJECT_DIR$/ch3_recipe7/ch3_recipe7.iml" />
+    </modules>
+  </component>
+</project>

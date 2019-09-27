@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe1_problem/ch2_recipe1_problem.iml" filepath="$PROJECT_DIR$/ch2_recipe1_problem/ch2_recipe1_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe1_solution/ch2_recipe1_solution.iml" filepath="$PROJECT_DIR$/ch2_recipe1_solution/ch2_recipe1_solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe2/ch2_recipe2.iml" filepath="$PROJECT_DIR$/ch2_recipe2/ch2_recipe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe3/ch2_recipe3.iml" filepath="$PROJECT_DIR$/ch2_recipe3/ch2_recipe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe4/ch2_recipe4.iml" filepath="$PROJECT_DIR$/ch2_recipe4/ch2_recipe4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe5/ch2_recipe5.iml" filepath="$PROJECT_DIR$/ch2_recipe5/ch2_recipe5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe6/ch2_recipe6.iml" filepath="$PROJECT_DIR$/ch2_recipe6/ch2_recipe6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2_recipe7/ch2_recipe7.iml" filepath="$PROJECT_DIR$/ch2_recipe7/ch2_recipe7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chx_recipe1/chx_recipe1.iml" filepath="$PROJECT_DIR$/chx_recipe1/chx_recipe1.iml" />
+    </modules>
+  </component>
+</project>
